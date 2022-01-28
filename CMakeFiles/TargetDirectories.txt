@@ -1,0 +1,3 @@
+/media/sushil/8E665489665473C5/Cmake/CMakeFiles/rebuild_cache.dir
+/media/sushil/8E665489665473C5/Cmake/CMakeFiles/edit_cache.dir
+/media/sushil/8E665489665473C5/Cmake/CMakeFiles/app.dir
